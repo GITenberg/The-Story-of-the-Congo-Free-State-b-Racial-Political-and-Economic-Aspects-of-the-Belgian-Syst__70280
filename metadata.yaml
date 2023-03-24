@@ -1,11 +1,16 @@
 _repo: The-Story-of-the-Congo-Free-State-b-Racial-Political-and-Economic-Aspects-of-the-Belgian-Syst__70280
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70280-h/images/cover.jpg
 creator:
   author:
     agent_name: Wack, Henry Wellington
     gutenberg_agent_id: '55682'
     url: http://www.gutenberg.org/2009/agents/55682
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70280#The-Story-of-the-Congo-Free-State-b-Racial-Political-and-Economic-Aspects-of-the-Belgian-Syst_
 gutenberg_issued: '2023-03-13'
 identifiers:
   gutenberg: '70280'
